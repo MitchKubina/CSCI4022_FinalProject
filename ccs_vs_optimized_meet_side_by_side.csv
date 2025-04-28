@@ -1,0 +1,41 @@
+Day,CCS Event Name,CCS Event ID,Optimized Event Name,Optimized Event ID
+Day 1,womens400IM,12,womens400IM,12
+Day 1,mens400IM,27,womens50back,4
+Day 1,womens200back,0,mens50fly,33
+Day 1,mens200back,26,womens100im,2
+Day 1,womens200fly,13,mens1000free,32
+Day 1,mens200fly,20,,
+Day 1,womens200breast,16,,
+Day 1,mens200breast,22,,
+,,,,
+Day 2,womens50fly,5,mens50back,31
+Day 2,mens50fly,33,mens50breast,28
+Day 2,womens200im,1,womens100breast,14
+Day 2,mens200im,17,mens400IM,27
+Day 2,womens50free,11,womens100fly,7
+Day 2,mens50Free,30,womens200breast,16
+Day 2,womens100breast,14,mens100back,24
+Day 2,mens100breast,18,mens100fly,25
+Day 2,womens200free,8,womens200im,1
+Day 2,mens200free,21,mens200im,17
+Day 2,womens100back,3,mens200back,26
+Day 2,mens100back,24,womens100free,6
+Day 2,womens1000free,9,womens200fly,13
+Day 2,mens1000free,32,,
+,,,,
+Day 3,womens50back,4,mens100i,23
+Day 3,mens50back,31,womens50breast,15
+Day 3,womens100fly,7,mens200free,21
+Day 3,mens100fly,25,womens100back,3
+Day 3,womens50breast,15,mens200breast,22
+Day 3,mens50breast,28,mens500free,29
+Day 3,womens100free,6,womens50fly,5
+Day 3,mens100free,19,womens500free,10
+Day 3,womens100im,2,mens50Free,30
+Day 3,mens100i,23,womens200free,8
+Day 3,womens500free,10,womens200back,0
+Day 3,mens500free,29,mens100breast,18
+Day 3,,,womens1000free,9
+Day 3,,,womens50free,11
+Day 3,,,mens200fly,20
+Day 3,,,mens100free,19
